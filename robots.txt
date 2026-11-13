@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://teach-bot-sys.github.io/dersdefter-data-publish/sitemap.xml
+Sitemap: https://teach-bot-sys.github.io/foodgauge-site/sitemap.xml

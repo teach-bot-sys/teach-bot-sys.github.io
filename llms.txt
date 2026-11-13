@@ -32,3 +32,7 @@
 - [Tüm ders sayfaları](https://teach-bot-sys.github.io/dersdefter-data-publish/llms-full.txt)
 - [iOS gizlilik politikası](https://docs.google.com/document/d/1ELciG67yDvMh2TghdIK_BXzvzpAz4qXOuVQKdviaiDs/edit?usp=sharing)
 - [Android gizlilik politikası](https://docs.google.com/document/d/e/2PACX-1vQ-Cmf1MYDfHLxFimzwlRR-Kq0OfzhNAutOtavQVatK9OuXBy1lg_6vrMN7ZPJ9txfmGBvAHMWQNeRl/pub)
+
+## Kaira Labs'in diğer uygulamaları
+
+- [FoodGauge](https://teach-bot-sys.github.io/foodgauge-site/): iPhone için gıda etiketi ve barkod tarayıcı (Android kapalı testte). İçindekiler, alerjenler, katkı maddeleri ve E kodları; her bilginin kaynağıyla. Ayrıntılı özet: https://teach-bot-sys.github.io/foodgauge-site/llms.txt
